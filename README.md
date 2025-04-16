@@ -40,8 +40,8 @@ and subjectivity is about how personal or emotionally raw they are,
 then this project reveals the emotional personality of each Taylor Swift album.
 
 Fans can use this to:
-                    **Build custom playlists by mood (e.g., "positive vibes only" or "late night sad songs")
-                    Understand Taylor’s emotional journey across the eras
+                    **Build custom playlists by mood (e.g., "positive vibes only" or "late night sad songs"), 
+                    Understand Taylor’s emotional journey across the eras, 
                     Appreciate the depth and diversity of her songwriting**
 
 
