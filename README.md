@@ -32,3 +32,16 @@ ONE DRAWBACK I FACED HERE - SINCE THE REPOSITORY CONSISTS OF ALL SONGS BY TAYLOR
 Subjectivity Chart
 Albums like Women in Music Pt. III and 1989 (Deluxe) are super subjective, meaning the lyrics are highly personal/opinion-based.
 Hannah Montana: The Movie and The More Lover Chapter are on the less subjective side (more descriptive or storytelling-like).
+
+
+USE CASE - 
+If sentiment is about how happy or sad the lyrics feel,
+and subjectivity is about how personal or emotionally raw they are,
+then this project reveals the emotional personality of each Taylor Swift album.
+
+Fans can use this to:
+                    **Build custom playlists by mood (e.g., "positive vibes only" or "late night sad songs")
+                    Understand Taylor’s emotional journey across the eras
+                    Appreciate the depth and diversity of her songwriting**
+
+
