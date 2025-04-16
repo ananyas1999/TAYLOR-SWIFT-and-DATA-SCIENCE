@@ -12,10 +12,9 @@ Imagine reading Taylor’s lyrics and asking:
 
 Sentiment and subjectivity analysis helps us quantify those emotions and tones using Natural Language Processing (NLP). Here's what the two terms mean:
 
-Metric | What It Means | Scale
-Sentiment Polarity | Measures if the lyric feels positive, neutral, or negative | Ranges from -1 (very sad/angry) to +1 (very happy/loving)
+Sentiment Polarity -> Measures if the lyric feels positive, neutral, or negative | Ranges from -1 (very sad/angry) to +1 (very happy/loving)
 
-Subjectivity | Measures how personal or emotional the lyric is vs. just stating facts | Ranges from 0 (factual) to 1 (opinionated or emotional)
+Subjectivity -> Measures how personal or emotional the lyric is vs. just stating facts | Ranges from 0 (factual) to 1 (opinionated or emotional)
 
 By doing sentiment and subjectivity analysis on Taylor Swift's lyrics, we're answering questions like:
 Which albums are more emotionally uplifting or darker in tone?
