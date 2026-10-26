@@ -7,8 +7,8 @@ Welcome to the Eras of Exploratory Analysis! From Fearless feature engineering t
 
 
 Imagine reading Taylor’s lyrics and asking:
-🧠 “Is this song happy or sad?”
-🗣️ “Is Taylor telling a personal story or stating a fact?”
+“Is this song happy or sad?”
+“Is Taylor telling a personal story or stating a fact?”
 
 Sentiment and subjectivity analysis helps us quantify those emotions and tones using Natural Language Processing (NLP). Here's what the two terms mean:
 
