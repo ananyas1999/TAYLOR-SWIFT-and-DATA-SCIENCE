@@ -1,4 +1,4 @@
-# TAYLOR SWIFT and DATA SCIENCE (who would've thou
+# TAYLOR SWIFT and DATA SCIENCE (who would've tho
 Welcome to the Eras of Exploratory Analysis! From Fearless feature engineering to Reputation-level sentiment analysis, this is where Swiftie passion meets Python precision 
 
 
